@@ -1,0 +1,28 @@
+{
+  "name": "american_english_course",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Kyle Hennessy <kyle.hennessy@tracktrain.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/American-English-Course/home",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "fittext": "*",
+    "animate.css": "animate-css#~3.5.1",
+    "font-awesome": "~4.5.0",
+    "jquery-easing": "*",
+    "normalize-css": "normalize.css#~3.0.3",
+    "wow": "WOW#~1.1.2"
+  }
+}

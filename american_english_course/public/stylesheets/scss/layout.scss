@@ -1,0 +1,43 @@
+.testing {
+  width: percentage(5/7);
+}
+.fancy-box {
+  color: blue;
+};
+
+.courses-col {
+	position: relative;
+	padding: 15px 15px 15px 15px;
+	border: 1px solid #eeeeee; 
+	transition: all 0.2s ease;
+}
+.courses-col:hover {
+	z-index: 2; /*removes border overlap*/
+	width: 260.5 px; /*260.5-230.5= 30*/
+	height: 484; /*484-454= 30*/
+	margin: -33px -33px -33px -33px; /*height or width + border*/
+	padding-top: 45px; /*15+30*/
+	padding-bottom: 45px;
+	border: 3px solid #f05f40;
+}
+
+.courses-line {
+	max-width: 100%;
+	border-color: #eeeeee;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.courses-btn {
+	border-radius: 0px;
+	background-color: #f05f40;
+	color: white;
+}
+.courses-btn:hover, .courses-btn:focus {
+	color: white;
+}
+
+.about-line {
+	margin-top: 30px;
+	margin-bottom: 30px;	
+}

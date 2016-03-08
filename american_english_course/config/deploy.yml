@@ -1,0 +1,5 @@
+production:
+  host: https://rosecanyon.herokuapp.com
+  handle: calm-brook-7165
+  email: jayhennessy@gmail.com
+  api_key: aba5203d9dfa25110ca3fd0bad8a324e19108ea6
